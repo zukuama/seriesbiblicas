@@ -1,0 +1,281 @@
+:root {
+    --rojo: #E50914;
+    --fondo: #141414;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--fondo);
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    padding: 30px 0;
+}
+
+header .contenedor {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+/* ---- ----- ----- Parte serie fondo y imagen ----- ----- ----- */
+
+
+/*----LA BIBLIA--*/
+
+.s-1 {
+    font-size: 16px;
+    min-height: 40.62em;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0, 0, 0, .50) 100%), url("https://static.historyplay.tv/files/la-biblia-latam-especial-episodio-600x310.jpg");
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 3.12em;
+    display: flex;
+    align-items: end;
+}
+
+
+/*----GENESIS--*/
+
+.s-2 {
+    font-size: 16px;
+    min-height: 40.62em;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0, 0, 0, .50) 100%), url("https://videoseriesbiblicas.com/wp-content/uploads/2021/01/genesis-8789-poster.jpg");
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 3.12em;
+    display: flex;
+    align-items: end;
+}
+
+
+/*----LEA--*/
+
+.s-3 {
+    font-size: 16px;
+    min-height: 40.62em;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0, 0, 0, .50) 100%), url();
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 3.12em;
+    display: flex;
+    align-items: end;
+}
+
+
+/*----JOSE DE EGIPTO--*/
+
+.s-4 {
+    font-size: 16px;
+    min-height: 40.62em;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0, 0, 0, .50) 100%), url("https://picsum.photos/320/300");
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 3.12em;
+    display: flex;
+    align-items: end;
+}
+
+
+/*----MOISES--*/
+
+.s-5 {
+    font-size: 16px;
+    min-height: 40.62em;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0, 0, 0, .50) 100%), url("https://picsum.photos/320/300");
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 3.12em;
+    display: flex;
+    align-items: end;
+}
+
+
+/*----JOSUE--*/
+
+.s-6 {
+    font-size: 16px;
+    min-height: 40.62em;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0, 0, 0, .50) 100%), url("https://picsum.photos/320/300");
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 3.12em;
+    display: flex;
+    align-items: end;
+}
+
+
+/*----SANSON Y DALILA--*/
+
+.s-7 {
+    font-size: 16px;
+    min-height: 40.62em;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0, 0, 0, .50) 100%), url("https://picsum.photos/320/300");
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 3.12em;
+    display: flex;
+    align-items: end;
+}
+
+
+/*----EL REY DAVID--*/
+
+.s-8 {
+    font-size: 16px;
+    min-height: 40.62em;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0, 0, 0, .50) 100%), url("https://picsum.photos/320/300");
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 3.12em;
+    display: flex;
+    align-items: end;
+}
+
+
+/*----JEZABEL--*/
+
+.s-9 {
+    font-size: 16px;
+    min-height: 40.62em;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0, 0, 0, .50) 100%), url("https://picsum.photos/320/300");
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 3.12em;
+    display: flex;
+    align-items: end;
+}
+
+
+/*----EL RICO Y LAZARO--*/
+
+.s-10 {
+    font-size: 16px;
+    min-height: 40.62em;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0, 0, 0, .50) 100%), url("https://picsum.photos/320/300");
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 3.12em;
+    display: flex;
+    align-items: end;
+}
+
+
+/*----LA REINA ESTER--*/
+
+.s-11 {
+    font-size: 16px;
+    min-height: 40.62em;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0, 0, 0, .50) 100%), url("https://picsum.photos/320/300");
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 3.12em;
+    display: flex;
+    align-items: end;
+}
+
+
+/*----JESUS--*/
+
+.s-12 {
+    font-size: 16px;
+    min-height: 40.62em;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0, 0, 0, .50) 100%), url("https://picsum.photos/320/300");
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 3.12em;
+    display: flex;
+    align-items: end;
+}
+
+
+/*----LOS MILAGROS DE JESUS--*/
+
+.s-13 {
+    font-size: 16px;
+    min-height: 40.62em;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0, 0, 0, .50) 100%), url("/img/los-milagros.jpg");
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 3.12em;
+    display: flex;
+    align-items: end;
+}
+
+
+/*----APOCALIPSIS--*/
+
+.s-14 {
+    font-size: 16px;
+    min-height: 40.62em;
+    color: #fff;
+    background: linear-gradient(rgba(0, 0, 0, .50) 0%, rgba(0, 0, 0, .50) 100%), url("https://picsum.photos/320/300");
+    background-position: center center;
+    background-size: cover;
+    margin-bottom: 3.12em;
+    display: flex;
+    align-items: end;
+}
+
+
+/* ---- ----- ----- Parte serie estilo de escritura y mas ----- ----- ----- */
+
+.series .contenedor {
+    margin: 0 auto;
+    margin-bottom: 6.25em;
+}
+
+.series .titulo {
+    font-weight: 600;
+    font-size: 3.12em;
+    margin-bottom: 0.4em;
+}
+
+.series .descripcion {
+    font-weight: normal;
+    font-size: 1em;
+    line-height: 1.75em;
+    max-width: 50%;
+    margin-bottom: 1.25em;
+}
+
+.series .boton {
+    background: rgba(0, 0, 0, 0.5);
+    border: none;
+    border-radius: 0.31em;
+    padding: 0.93em 1.87em;
+    color: #fff;
+    margin-right: 1.25em;
+    cursor: pointer;
+    transition: .3s ease all;
+    font-size: 1.12em;
+}
+
+.series .boton:hover {
+    background: #fff;
+    color: #000;
+}
+
+.series .boton i {
+    margin-right: 1.25em;
+}
